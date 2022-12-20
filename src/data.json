@@ -1,0 +1,40 @@
+{
+    "tienda": [
+        {
+            "id": "1",
+            "marca": "Samsung",
+            "modelo": "S10+",
+            "descripcion": "Almacenamiento: 128 gb, camara: 14 mpx, ram: 8 gb, android: 11"
+        },
+        {
+            "id": "2",
+            "marca": "Samsung",
+            "modelo": "S20",
+            "descripcion": "Almacenamiento: 256 gb, camara: 14 mpx, ram: 8 gb, android: 12"
+        },
+        {
+            "id": "3",
+            "marca": "Samsung",
+            "modelo": "S21+",
+            "descripcion": "Almacenamiento: 512 gb, camara: 20 mpx, ram: 12 gb, android: 12"
+        },
+        {
+            "id": "4",
+            "marca": "Samsung",
+            "modelo": "S21fe",
+            "descripcion": "Almacenamiento: 128 gb, camara: 14 mpx, ram: 8 gb, android: 12"
+        },
+        {
+            "id": "5",
+            "marca": "Samsung",
+            "modelo": "S22",
+            "descripcion": "Almacenamiento: 512 gb, camara: 20 mpx, ram: 8 gb, android: 12"
+        },
+        {
+            "id": "6",
+            "marca": "Samsung",
+            "modelo": "S23",
+            "descripcion": "Almacenamiento: 1 tb, camara: 20 mpx, ram: 12 gb, android: 12"
+        }
+    ]
+}
